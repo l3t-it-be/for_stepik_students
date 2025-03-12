@@ -37,9 +37,11 @@
 
 16. [Никита Давыдов - Python OOP от Python_Samurai](https://stepik.org/course/212815)
 
-17. [Никита Филонов - Автоматизация тестирования UI с Python и Playwright](https://stepik.org/course/215388)
+17. [Никита Филонов - Автоматизация тестирования UI с Python и Playwright. Расширенный](https://stepik.org/course/215388)
 
 18. [Александр Six-Skills - Тестирование на стероидах / QA с Нуля до Инженера](https://stepik.org/course/223924)
 
 19. [Александр Six-Skills - Нагрузочное тестирование на стероидах | Jmeter full pack](https://stepik.org/course/229070)
+
+20. [Павел Климов - Тестирование Web: Автоматизация с нуля до middle](https://stepik.org/course/232547)
 
