@@ -33,7 +33,7 @@
 
 14. [Никита Давыдов - Python от Python_Samurai: часть 2](https://stepik.org/course/189107) +
 
-15. [Никита Давыдов - Python от Python_Samurai: часть 3](https://stepik.org/course/193274)
+15. [Никита Давыдов - Python от Python_Samurai: часть 3](https://stepik.org/course/193274) +
 
 16. [Никита Давыдов - Python OOP от Python_Samurai](https://stepik.org/course/212815)
 
