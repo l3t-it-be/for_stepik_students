@@ -17,7 +17,7 @@
 
 06. [Михаил Крыжановский - Телеграм-боты на Python: продвинутый уровень](https://stepik.org/course/153850)
 
-07. [Sergey Romanenko - Практический Тренажер по Python](https://stepik.org/course/173184)
+07. [IT Guru - Практический Тренажер по Python](https://stepik.org/course/173184)
 
 08. [Илья Перминов - Django 5 для начинающих](https://stepik.org/course/174634)
 
